@@ -1,4 +1,4 @@
 File Sharing App
 ================
 
-It is a aimple application for uploading and downloading files, written in QT.
+It is a simple application for uploading and downloading files, written in QT.
